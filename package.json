@@ -1,0 +1,21 @@
+{
+  "name": "compare-array-of-strings",
+  "version": "1.0.2",
+  "description": "Compares an array of strings",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "array",
+    "compare"
+  ],
+  "author": "Mike MacCana <mike@certsimple.com>",
+  "license": "MIT",
+  "dependencies": {
+    "sorts": "^1.0.5"
+  }
+}
